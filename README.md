@@ -1,2 +1,2 @@
 # MoneyMaker
-This code converts your number into coins. The rounds out what type of coins you have. 
+This code converts your number into coins. They rounds out what type of coins you have. 
