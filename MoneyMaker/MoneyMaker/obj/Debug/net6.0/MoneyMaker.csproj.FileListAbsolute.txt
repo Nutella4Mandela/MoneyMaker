@@ -1,0 +1,15 @@
+F:\ETC\Portfolio Stuff\MadLibs\Money Maker\MoneyMaker\MoneyMaker\bin\Debug\net6.0\MoneyMaker.exe
+F:\ETC\Portfolio Stuff\MadLibs\Money Maker\MoneyMaker\MoneyMaker\bin\Debug\net6.0\MoneyMaker.deps.json
+F:\ETC\Portfolio Stuff\MadLibs\Money Maker\MoneyMaker\MoneyMaker\bin\Debug\net6.0\MoneyMaker.runtimeconfig.json
+F:\ETC\Portfolio Stuff\MadLibs\Money Maker\MoneyMaker\MoneyMaker\bin\Debug\net6.0\MoneyMaker.dll
+F:\ETC\Portfolio Stuff\MadLibs\Money Maker\MoneyMaker\MoneyMaker\bin\Debug\net6.0\MoneyMaker.pdb
+F:\ETC\Portfolio Stuff\MadLibs\Money Maker\MoneyMaker\MoneyMaker\obj\Debug\net6.0\MoneyMaker.csproj.AssemblyReference.cache
+F:\ETC\Portfolio Stuff\MadLibs\Money Maker\MoneyMaker\MoneyMaker\obj\Debug\net6.0\MoneyMaker.GeneratedMSBuildEditorConfig.editorconfig
+F:\ETC\Portfolio Stuff\MadLibs\Money Maker\MoneyMaker\MoneyMaker\obj\Debug\net6.0\MoneyMaker.AssemblyInfoInputs.cache
+F:\ETC\Portfolio Stuff\MadLibs\Money Maker\MoneyMaker\MoneyMaker\obj\Debug\net6.0\MoneyMaker.AssemblyInfo.cs
+F:\ETC\Portfolio Stuff\MadLibs\Money Maker\MoneyMaker\MoneyMaker\obj\Debug\net6.0\MoneyMaker.csproj.CoreCompileInputs.cache
+F:\ETC\Portfolio Stuff\MadLibs\Money Maker\MoneyMaker\MoneyMaker\obj\Debug\net6.0\MoneyMaker.dll
+F:\ETC\Portfolio Stuff\MadLibs\Money Maker\MoneyMaker\MoneyMaker\obj\Debug\net6.0\refint\MoneyMaker.dll
+F:\ETC\Portfolio Stuff\MadLibs\Money Maker\MoneyMaker\MoneyMaker\obj\Debug\net6.0\MoneyMaker.pdb
+F:\ETC\Portfolio Stuff\MadLibs\Money Maker\MoneyMaker\MoneyMaker\obj\Debug\net6.0\MoneyMaker.genruntimeconfig.cache
+F:\ETC\Portfolio Stuff\MadLibs\Money Maker\MoneyMaker\MoneyMaker\obj\Debug\net6.0\ref\MoneyMaker.dll
